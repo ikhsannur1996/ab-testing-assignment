@@ -83,10 +83,7 @@ Prepare a comprehensive report documenting the A/B testing process and findings.
 - **Recommendations:** Suggestions for further action based on the test results.
 
 ### Submission
-
-Submit the following by the due date:
-
-1. A detailed report covering all the steps mentioned above.
+1. A detailed slide presentation covering all the steps mentioned above.
 2. Any relevant data files used for analysis.
 3. Code or tools used for statistical analysis (if applicable).
 
